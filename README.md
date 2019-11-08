@@ -3,6 +3,7 @@ Brew tap for installing the [speed-test NPM package](https://github.com/sindreso
 
 From the repo of the package:
 > Test your internet connection speed and ping using [speedtest.net](https://www.speedtest.net) from the CLI
+>
 > <img src="screenshot.gif" width="404">
 
 ## How do I install this formula?
